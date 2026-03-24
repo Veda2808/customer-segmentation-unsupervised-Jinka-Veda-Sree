@@ -1,8 +1,4 @@
-Perfect — this is your **final step**, so let’s make a **professional README.md** that can impress reviewers, recruiters, and your internship panel 🔥
 
-You can **copy-paste this directly into your `README.md` file** 👇
-
----
 
 # 📊 **Customer Segmentation using Clustering**
 
@@ -124,20 +120,3 @@ This project successfully demonstrates how clustering techniques can be used to 
 * Deploy as a web application/dashboard
 
 ---
-
-# 🎯 **FINAL TIP (VERY IMPORTANT)**
-
-Before submitting:
-
-* Create a folder named **`images`** in your repo
-* Upload your graphs there
-* Link them in README (as shown above)
-
----
-
-If you want a **next-level upgrade 🔥**, I can:
-✅ Make your README **with badges + styling (professional GitHub look)**
-✅ Review your GitHub repo and suggest improvements
-✅ Help you write a **LinkedIn post for this project**
-
-Just tell 👍
