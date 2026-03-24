@@ -98,7 +98,7 @@ python main.py
 
 
 ```markdown
-![k-means plot3](https://github.com/user-attachments/assets/58051194-cac5-4886-bdb0-5c7929172ce7)
+!"C:\Users\jinka vedasree\OneDrive\Desktop\customer-segmentation-unsupervised-Jinka veda sree\results\cluster_plots\k-means plot3.jpg"
 ![HIERARCHICAL CLUSTER PLOT-7](https://github.com/user-attachments/assets/0e1bc931-d3ca-4987-8ffc-1a6c8b6f8506)
 ![HIERARCHICAL CLUSTER PLOT-3](https://github.com/user-attachments/assets/76feae19-7803-4bad-b02a-8c962a40c5bd)
 ![HIERARCHICAL CLUSTER PLOT-2](https://github.com/user-attachments/assets/054e489c-dffc-4ed9-bc8b-9b757620e667)
