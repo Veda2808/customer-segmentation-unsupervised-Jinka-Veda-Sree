@@ -1,0 +1,5 @@
+Algorithm,Silhouette Score
+KMeans,0.11
+Hierarchical,0.12
+DBSCAN,-0.38
+GMM,0.13
