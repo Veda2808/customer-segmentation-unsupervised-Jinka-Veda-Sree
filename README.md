@@ -98,14 +98,8 @@ python main.py
 
 
 ```markdown
-!"C:\Users\jinka vedasree\OneDrive\Desktop\customer-segmentation-unsupervised-Jinka veda sree\results\cluster_plots\k-means plot3.jpg"
-![HIERARCHICAL CLUSTER PLOT-7](https://github.com/user-attachments/assets/0e1bc931-d3ca-4987-8ffc-1a6c8b6f8506)
-![HIERARCHICAL CLUSTER PLOT-3](https://github.com/user-attachments/assets/76feae19-7803-4bad-b02a-8c962a40c5bd)
-![HIERARCHICAL CLUSTER PLOT-2](https://github.com/user-attachments/assets/054e489c-dffc-4ed9-bc8b-9b757620e667)
-![GUASSIAN CLUSTER PLOT-4](https://github.com/user-attachments/assets/0b652c58-2b56-4be4-be4e-4a4def898fb4)
-![DBSCAN CLUSTER PLOT-4](https://github.com/user-attachments/assets/66ae3842-741b-427b-9108-a89bcc53d68b)
-!<img width="640" height="480" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/c7c9b16c-0772-44fe-8cad-e52d245be4e3" />
-![24](https://github.com/user-attachments/assets/11668970-75af-4f10-a235-e7d7a6c6adde)
+<img width="640" height="480" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/4be54912-a0cc-4021-8c57-8481a7c77d17" />
+
 
 
 
