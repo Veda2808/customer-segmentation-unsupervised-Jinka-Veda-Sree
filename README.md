@@ -91,7 +91,6 @@ python main.py
 
 ## 📸 **7. Sample Visualizations**
 
-👉 Add screenshots of the following:
 
 * 📈 Elbow Method Graph
 * 📊 Cluster Visualization (K-Means)
