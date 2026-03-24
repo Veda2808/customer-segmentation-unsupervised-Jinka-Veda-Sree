@@ -98,9 +98,13 @@ python main.py
 
 
 ```markdown
-<img width="640" height="480" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/4be54912-a0cc-4021-8c57-8481a7c77d17" />
 
-
+![k-means plot3](https://github.com/user-attachments/assets/ad3a24b4-db69-4ac2-846c-433b8f667843)
+![HIERARCHICAL CLUSTER PLOT-7](https://github.com/user-attachments/assets/41e34463-eb17-4221-b6f9-f86ed5a4a7c2)
+![HIERARCHICAL CLUSTER PLOT-3](https://github.com/user-attachments/assets/be5f26f3-4e4f-4548-b9b0-a26ab20a3e6b)
+![HIERARCHICAL CLUSTER PLOT-2](https://github.com/user-attachments/assets/83a3aae9-3991-485f-be03-0bb33585ef5e)
+![GUASSIAN CLUSTER PLOT-4](https://github.com/user-attachments/assets/716cd2f5-d3c9-4df7-b620-73bf505354f0)
+![DBSCAN CLUSTER PLOT-4](https://github.com/user-attachments/assets/b8a6c586-ec3c-4a5e-a127-5b273f5b5f30)
 
 
 ```
